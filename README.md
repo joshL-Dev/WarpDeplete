@@ -1,6 +1,6 @@
 # WarpDeplete
 
-WarpDeplete is an M+ Timer for Shadowlands Dungeons.
+WarpDeplete is an M+ Timer for Shadowlands and Dragonflight Dungeons.
 
 The goal of this AddOn is to combine the best of all worlds from other timers, concerning features, accuracy, and customizability, as well as wrapping everything in a minimalist and modern design.  
 
